@@ -1,0 +1,27 @@
+{
+  "name": "parcel-reactjs-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsandagon/parcel-reactjs-template.git"
+  },
+  "author": "rsandagon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsandagon/parcel-reactjs-template/issues"
+  },
+  "homepage": "https://github.com/rsandagon/parcel-reactjs-template#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel": "^1.9.7",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
