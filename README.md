@@ -8,4 +8,4 @@ Prerequisites:
 
 ### Getting Started
 1. Run ```npm install``
-1. Run ```npm run develop```
+1. Run ```npm run start```
